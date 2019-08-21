@@ -1,3 +1,3 @@
 # talks
 
-See [SpeakerDeck](https://speakerdeck.com/micnncim).
+See [Speaker Deck](https://speakerdeck.com/micnncim).
